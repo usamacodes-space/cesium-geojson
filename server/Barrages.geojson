@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Barrages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Guddu", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 69.712378446000059, 28.420101754000029 ] } },
+{ "type": "Feature", "properties": { "Name": "Panjnad", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 71.020095664000053, 29.346416009000052 ] } },
+{ "type": "Feature", "properties": { "Name": "Islam", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 72.247207500000059, 29.727587816000039 ] } },
+{ "type": "Feature", "properties": { "Name": "Sulemanki", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 73.866379159000076, 30.377478103000044 ] } },
+{ "type": "Feature", "properties": { "Name": "Balloki", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 73.859318251000047, 31.221538382000062 ] } },
+{ "type": "Feature", "properties": { "Name": "Sidhnai", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 72.157746911000061, 30.572574855000028 ] } },
+{ "type": "Feature", "properties": { "Name": "Taunsa", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 70.850145049000048, 30.512995253000042 ] } },
+{ "type": "Feature", "properties": { "Name": "Trimmu", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 72.14634294800004, 31.144857638000076 ] } },
+{ "type": "Feature", "properties": { "Name": "Chashma", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 71.379228514000033, 32.436159400000065 ] } },
+{ "type": "Feature", "properties": { "Name": "Jinnah", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 71.521411224000076, 32.918436488000054 ] } },
+{ "type": "Feature", "properties": { "Name": "Rasul", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 73.519186038000043, 32.68210891800004 ] } },
+{ "type": "Feature", "properties": { "Name": "Qadirabad", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 73.685298050000029, 32.322033944000054 ] } },
+{ "type": "Feature", "properties": { "Name": "Khanki", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 73.96752611200003, 32.406589869000072 ] } },
+{ "type": "Feature", "properties": { "Name": "Marala", "type": "Barrage" }, "geometry": { "type": "Point", "coordinates": [ 74.465305563000072, 32.672566310000036 ] } },
+{ "type": "Feature", "properties": { "Name": "Tarbela", "type": "Dam" }, "geometry": { "type": "Point", "coordinates": [ 72.70200420000009, 34.088153200000079 ] } },
+{ "type": "Feature", "properties": { "Name": "Mangla", "type": "Dam" }, "geometry": { "type": "Point", "coordinates": [ 73.644535214720932, 33.131273651032743 ] } }
+]
+}
