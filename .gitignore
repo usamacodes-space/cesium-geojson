@@ -1,0 +1,31 @@
+# --- Vite / TypeScript / Tooling ---
+dist/
+.vite/
+*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+.idea/
+*.iml
+.vscode/
+
+# --- Node ---
+node_modules/
+
+# --- Cesium build artifacts ---
+# Prevent committing large static Cesium assets
+**/Build/Cesium/
+**/Build/CesiumUnminified/
